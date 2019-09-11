@@ -1,0 +1,11 @@
+C:\Users\pedro\source\repos\Projeto_enari_1\bin\Debug\netcoreapp2.2\Projeto_enari_1.deps.json
+C:\Users\pedro\source\repos\Projeto_enari_1\bin\Debug\netcoreapp2.2\Projeto_enari_1.runtimeconfig.json
+C:\Users\pedro\source\repos\Projeto_enari_1\bin\Debug\netcoreapp2.2\Projeto_enari_1.runtimeconfig.dev.json
+C:\Users\pedro\source\repos\Projeto_enari_1\bin\Debug\netcoreapp2.2\Projeto_enari_1.dll
+C:\Users\pedro\source\repos\Projeto_enari_1\bin\Debug\netcoreapp2.2\Projeto_enari_1.pdb
+C:\Users\pedro\source\repos\Projeto_enari_1\obj\Debug\netcoreapp2.2\Projeto_enari_1.csprojAssemblyReference.cache
+C:\Users\pedro\source\repos\Projeto_enari_1\obj\Debug\netcoreapp2.2\Projeto_enari_1.csproj.CoreCompileInputs.cache
+C:\Users\pedro\source\repos\Projeto_enari_1\obj\Debug\netcoreapp2.2\Projeto_enari_1.AssemblyInfoInputs.cache
+C:\Users\pedro\source\repos\Projeto_enari_1\obj\Debug\netcoreapp2.2\Projeto_enari_1.AssemblyInfo.cs
+C:\Users\pedro\source\repos\Projeto_enari_1\obj\Debug\netcoreapp2.2\Projeto_enari_1.dll
+C:\Users\pedro\source\repos\Projeto_enari_1\obj\Debug\netcoreapp2.2\Projeto_enari_1.pdb
